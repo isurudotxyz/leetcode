@@ -1,4 +1,4 @@
-#H1 LEETCODE SOLUTIONS IN JAVASCRIPT
+#H1LEETCODE SOLUTIONS IN JAVASCRIPT
 
 | #   | Problem Title        | Difficulty| Solution  |
 |---- |:--------------------:| ---------:| ---------:|
