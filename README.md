@@ -1,11 +1,5 @@
-# The LeetCode Solutions
+#h1 LEETCODE SOLUTIONS IN JAVASCRIPT
 
-| #    | Title                                                                                                     | Solution     | Difficulty     |
-| ---- | --------------------------------------------------------------------------------------------------------- | ------------ | -------------- | ---------- |
-| No.  | Problems                                                                                                  | Difficulty   | Source Code    | Solution   |
-| ---- | ----------                                                                                                | ------------ | -------------  | ---------- |
-| 026  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy         | [Javascript]() |
-
----
-
-Welcome to [My Website]()
+| #   | Problem Title        | Difficulty| Solution  |
+|---- |:--------------------:| ---------:| ---------:|
+| 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | EASY | NEED@ADD|
